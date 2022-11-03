@@ -36,10 +36,10 @@ wget -qO deinfra.sh https://raw.githubusercontent.com/hexskrt/deinfra-testnet/ma
 # Checking Node...
 
 ```
-curl http://ISI-IP-VPS-KALIAN:44000/api/node/status | jq
+curl http://<IP_Address>:44000/api/node/status | jq
 ```
 
-**Note :** `IP Address` Change To Your IP Address
+**Note :** `<IP_Address>` Change To Your IP Address
 
 # Confirm on Telegram Bot
 
