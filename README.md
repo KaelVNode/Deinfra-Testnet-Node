@@ -33,7 +33,7 @@ Docs :
 wget -qO deinfra.sh https://raw.githubusercontent.com/hexskrt/deinfra-testnet/main/deinfra.sh && chmod +x deinfra.sh && ./deinfra.sh
 ```
 
-# Checking Node...
+# Check Node
 
 ```
 curl http://<IP_Address>:44000/api/node/status | jq
