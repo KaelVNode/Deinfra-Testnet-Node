@@ -7,7 +7,7 @@
 
 # DEINFRA TESTNET INCENTIVIZED
 
-Webiste Official :
+Website Official :
 > [Website](https://thepower.io/)
 
 Docs :
