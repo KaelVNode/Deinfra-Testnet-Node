@@ -1,6 +1,3 @@
-<p style="font-size:14px" align="right">
-<a href="https://t.me/hexskrt" target="_blank">Contact me on telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-
 <p align="center">
   <img height="250" height="250" src="https://user-images.githubusercontent.com/38981255/198820722-9f95bc3c-2963-4bda-8886-33c6ce89b13b.PNG">
 </p>
